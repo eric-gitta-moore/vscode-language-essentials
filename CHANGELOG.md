@@ -4,6 +4,13 @@ All notable changes to the "vscode-language-independent-essentials" extension pa
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.2](https://github.com/james-curtis/vscode-language-essentials/compare/v0.0.1...v0.0.2) (2023-08-06)
+
+
+### Bug Fixes
+
+* ci ([14a252e](https://github.com/james-curtis/vscode-language-essentials/commit/14a252ed821afbb834826774dd9b30086c2c3078))
+
 ## 0.0.1 (2023-08-06)
 
 
