@@ -1,37 +1,39 @@
 # vscode-language-essentials README
 
-```json
+```json5
 [
-    //  cpp
-    "ms-vscode.cpptools-extension-pack",
+        "//cpp",
+        "ms-vscode.cpptools-extension-pack",
 
-    //  java
-    "vscjava.vscode-java-pack",
-    "vmware.vscode-boot-dev-pack",
+        "//java",
+        "vscjava.vscode-java-pack",
+        "vmware.vscode-boot-dev-pack",
 
-    //  php
-    "xdebug.php-pack",
-    
-    //  python
-    "donjayamanne.python-extension-pack",
-    "ms-python.vscode-pylance",
-    "tamasfe.even-better-toml",
-    "ms-toolsai.jupyter",
+        "//php",
+        "xdebug.php-pack",
 
-    //  js
-    "dbaeumer.vscode-eslint",
-    "rvest.vs-code-prettier-eslint",
-    "jasonnutter.search-node-modules",
-    "wallabyjs.quokka-vscode",
-    //      js snippets
-    "dsznajder.es7-react-js-snippets",
-    "jmsv.javascriptsnippetsstandard",
-    "dotenv.dotenv-vscode",
+        "//python",
+        "donjayamanne.python-extension-pack",
+        "ms-python.vscode-pylance",
+        "tamasfe.even-better-toml",
+        "ms-toolsai.jupyter",
 
-    //  css
-    "pranaygp.vscode-css-peek",
+        "//js",
+        "dbaeumer.vscode-eslint",
+        "rvest.vs-code-prettier-eslint",
+        "jasonnutter.search-node-modules",
+        "wallabyjs.quokka-vscode",
+        "//js snippets",
+        "dsznajder.es7-react-js-snippets",
+        "jmsv.javascriptsnippetsstandard",
+        "dotenv.dotenv-vscode",
 
-    // json5
-    "mrmlnc.vscode-json5",
-  ]
+        "//css",
+        "pranaygp.vscode-css-peek",
+
+        "//json5",
+        "mrmlnc.vscode-json5",
+        
+        "//comment"
+    ]
 ```
