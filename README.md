@@ -1,3 +1,3 @@
-# vscode-language-independent-essentials README
+# vscode-language-essentials README
 
 - Gydunhn.vsc-essentials
