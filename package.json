@@ -2,7 +2,7 @@
     "name": "vscode-language-essentials",
     "displayName": "VSC Language Essentials",
     "description": "语言相关，visual studio代码的扩展",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "JamesCurtis",
     "engines": {
         "vscode": "^1.35.0"
@@ -18,20 +18,16 @@
     "extensionPack": [
         "__comment_cpp",
         "ms-vscode.cpptools-extension-pack",
-
         "__comment_java",
         "vscjava.vscode-java-pack",
         "vmware.vscode-boot-dev-pack",
-
         "__comment_php",
         "xdebug.php-pack",
-
         "__comment_python",
         "donjayamanne.python-extension-pack",
         "ms-python.vscode-pylance",
         "tamasfe.even-better-toml",
         "ms-toolsai.jupyter",
-
         "__comment_js",
         "dbaeumer.vscode-eslint",
         "rvest.vs-code-prettier-eslint",
@@ -41,13 +37,10 @@
         "dsznajder.es7-react-js-snippets",
         "jmsv.javascriptsnippetsstandard",
         "dotenv.dotenv-vscode",
-
         "__comment_css",
         "pranaygp.vscode-css-peek",
-
         "__comment_json5",
         "mrmlnc.vscode-json5",
-        
         "__comment"
     ]
 }
