@@ -43,6 +43,9 @@
     "dotenv.dotenv-vscode",
 
     //  css
-    "pranaygp.vscode-css-peek"
+    "pranaygp.vscode-css-peek",
+
+    // json5
+    "mrmlnc.vscode-json5",
   ]
 }
