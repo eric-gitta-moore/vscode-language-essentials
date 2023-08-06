@@ -19,23 +19,19 @@ jobs:
 
     steps:
       - name: Checkout
-        if: ${{ steps.release.outputs.release_created }}
         uses: actions/checkout@v3
 
       - name: Setup node
-        if: ${{ steps.release.outputs.release_created }}
         uses: actions/setup-node@v3
         with:
           node-version: 16
 
       - name: Install dependencies
-        if: ${{ steps.release.outputs.release_created }}
         run: |
           npm install -g yo generator-code @vscode/vsce json5
           json5 ./package.json5 -o ./package.json
 
       - name: Read Properties
-        if: ${{ steps.release.outputs.release_created }}
         id: name
         uses:  ashley-taylor/read-json-property-action@v1.0
         with:
