@@ -4,6 +4,13 @@ All notable changes to the "vscode-language-independent-essentials" extension pa
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.3](https://github.com/james-curtis/vscode-language-essentials/compare/v0.0.2...v0.0.3) (2023-08-06)
+
+
+### Bug Fixes
+
+* add mrmlnc.vscode-json5 ([69226bb](https://github.com/james-curtis/vscode-language-essentials/commit/69226bbddb4ced6f1580ff8d35e597f7dcd9df27))
+
 ## [0.0.2](https://github.com/james-curtis/vscode-language-essentials/compare/v0.0.1...v0.0.2) (2023-08-06)
 
 
