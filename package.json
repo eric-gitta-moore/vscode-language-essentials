@@ -42,6 +42,10 @@
         "pranaygp.vscode-css-peek",
         "__comment_json5",
         "mrmlnc.vscode-json5",
+        "__comment_vue",
+        "vue.volar",
+        "vue.vscode-typescript-vue-plugin",
+        "sdras.vue-vscode-snippets",
         "__comment_newline"
     ]
 }
