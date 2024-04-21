@@ -2,7 +2,7 @@
     "name": "vscode-language-essentials",
     "displayName": "VSC Language Essentials",
     "description": "语言相关，visual studio代码的扩展",
-    "version": "0.0.8",
+    "version": "0.0.1",
     "publisher": "JamesCurtis",
     "engines": {
         "vscode": "^1.35.0"
